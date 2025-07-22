@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image 22 de jul  de 2025, 00_41_29" src="https://github.com/user-attachments/assets/63e709c9-90db-40a2-bbaf-afd2837f1e2c" />
+
+
 # 👋 Olá! Me chamo Gustavo. Seja bem-vindo ao meu GitHub!
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio, atuo como professor de inglês e estou em processo de migração para a área da tecnologia, construindo minha trajetória em desenvolvimento backend, tendo atualmente como foco Python e bancos de dados relacionais (SQL Server e MySQL).
