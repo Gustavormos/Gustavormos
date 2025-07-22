@@ -1,5 +1,3 @@
-![Header](https://leviarista.github.io/github-profile-header-generator/api/generate?params)
-
 # 👋 Olá! Me chamo Gustavo. Seja bem-vindo ao meu GitHub!
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Estácio, atuo como professor de inglês e estou em processo de migração para a área da tecnologia, construindo minha trajetória em desenvolvimento backend, tendo atualmente como foco Python e bancos de dados relacionais (SQL Server e MySQL).
